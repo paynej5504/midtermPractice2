@@ -1,8 +1,8 @@
 # simple-nodejs-weather-app
 Simple Node.js Command Line Weather Application
+based on code written by bmorelli25
 
-* Check out the **[Live Demo](https://simple-nodejs-weather-app-irhhpddsku.now.sh/)**
-* Read the full tutorial on how to build this application at [codeburst.io](https://codeburst.io)
+This app uses node. To download node type "npm install node" into GitBash.
 * Run the web app locally:
 ```
 node server.js
